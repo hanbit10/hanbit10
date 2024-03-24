@@ -13,7 +13,14 @@
 
 - ⚡ Fun fact **I love foods and pictures**
 
-- <a href="https://github.com/hanbit10/RWTH-Informatik-BA">Link to my BA thesis</a>
+- 📖 <a href="https://github.com/hanbit10/RWTH-Informatik-BA">Link to my BA thesis</a>
+
+- Developer Akademie Projects
+<ul>
+  <li>
+    <a href="https://hanbit-chang.developerakademie.net/sakura-ramen/src/index.html">Sakura Ramen</a>
+  </li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

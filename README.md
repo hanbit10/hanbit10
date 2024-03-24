@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I love foods and pictures**
 
+- <a href="https://github.com/hanbit10/RWTH-Informatik-BA">Link to my BA thesis</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/jang.beat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jang.beat" height="30" width="40" /></a>

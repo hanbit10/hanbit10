@@ -18,7 +18,7 @@
 
 <ul>
   <li>
-    Developer Akademie Projects
+    🚀 Developer Akademie Projects
     <ul> 
       <li><a href="https://hanbit-chang.developerakademie.net/sakura-ramen/src/index.html">Sakura Ramen</a></li>
     </ul>

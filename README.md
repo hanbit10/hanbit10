@@ -15,10 +15,13 @@
 
 - 📖 <a href="https://github.com/hanbit10/RWTH-Informatik-BA">Link to my BA thesis</a>
 
-- Developer Akademie Projects
+
 <ul>
   <li>
-    <a href="https://hanbit-chang.developerakademie.net/sakura-ramen/src/index.html">Sakura Ramen</a>
+    Developer Akademie Projects
+    <ul> 
+      <li><a href="https://hanbit-chang.developerakademie.net/sakura-ramen/src/index.html">Sakura Ramen</a></li>
+    </ul>
   </li>
 </ul>
 

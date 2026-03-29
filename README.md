@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋, I'm Hanbit Chang</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h1 align="center">Hi 👋, I'm  [hanbit-chang.onrender.com](https://hanbit-chang.onrender.com/)  </h1>
+<h3 align="center">A frontend developer from South Korea</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanbit10&label=Profile%20views&color=0e75b6&style=flat" alt="hanbit10" /> </p>
 
 ## 💻 About Myself
 
+- 📖 I have Bachelor Science Degree by RWTH Aachen and this is my <a href="https://github.com/hanbit10/RWTH-Informatik-BA">thesis</a>
 - 🌱 I’ve **mastered Angular, TypeScript, and JavaScript**  
 - 💬 Ask me about **MEAN stack**  
 - 📫 How to reach me: **chanbit10@gmail.com**  
-- ⚡ Fun fact: **I love programming and learning new skills**  
-- 🌐 Check out my portfolio: [hanbit-chang.onrender.com](https://hanbit-chang.onrender.com/)  
-- 📖 <a href="https://github.com/hanbit10/RWTH-Informatik-BA">Link to my BA thesis</a>
+- ⚡ Fun fact: **I love cooking food and workout**  
+
 
 
 ## 🚀 Developer Akademie Bootcamp

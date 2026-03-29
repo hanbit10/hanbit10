@@ -43,16 +43,3 @@
 | **Backend & DB** | Firebase, Node.js, Express, MongoDB |
 | **Academic/Logic** | Dafny, Python, Java, C |
 | **Workflow** | Git, Jira (Agile/Scrum), VS Code |
-
----
-
-## 📈 Activity & Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hanbit10&show_icons=true&locale=en&layout=compact&hide=arduino,c" alt="hanbit10" />
-  <img src="https://github-readme-stats.vercel.app/api?username=hanbit10&show_icons=true&locale=en" alt="hanbit10" />
-</p>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/hanbit-chang-5108bb232/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanbit chang" height="30" width="40" /></a>
-<a href="https://instagram.com/jang.beat" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jang.beat" height="30" width="40" /></a>
-</p>

@@ -38,4 +38,4 @@ Completed a bootcamp at **Developer Akademie** focused on **conceptualizing and 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hanbit10&show_icons=true&locale=en&layout=compact" alt="hanbit10" /></p>
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=hanbit10&show_icons=true&count_private=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hanbit10&show_icons=true&locale=en" alt="hanbit10" /></p>

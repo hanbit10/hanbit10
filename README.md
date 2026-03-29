@@ -6,7 +6,7 @@
 - 🎓 **B.Sc. Informatik** from **RWTH Aachen University** (Focus: System Engineering & Verification).
 - 🔬 **Bachelor Thesis:** *Automated Verification of While-Programs: Empirically Comparing Dafny and Caesar*.
 - 🚀 **Specialization:** Frontend Engineering with **Angular**, **TypeScript**, and **Reactive Programming (RxJS)**.
-- 📂 **Current Focus:** Building scalable, real-time web applications and modular macro-solutions.
+- 📂 **Current Focus:** Building scalable, real-time web applications.
 - 📫 **Reach me:** [chanbit10@gmail.com](mailto:chanbit10@gmail.com)
 
 ---

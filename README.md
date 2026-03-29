@@ -5,14 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hanbit10&label=Profile%20views&color=0e75b6&style=flat" alt="hanbit10" /> </p>
 
-- 🌱 I’m currently learning **Angular, TypeScript, JavaScript**
-
-- 💬 Ask me about **MEAN**
-
-- 📫 How to reach me **chanbit10@gmail.com**
-
-- ⚡ Fun fact **I love foods and pictures**
-
+- 🌱 I’ve **mastered Angular, TypeScript, and JavaScript**  
+- 💬 Ask me about **MEAN stack**  
+- 📫 How to reach me: **chanbit10@gmail.com**  
+- ⚡ Fun fact: **I love programming and learning new skills**  
+- 🌐 Check out my portfolio: [hanbit-chang.onrender.com](https://hanbit-chang.onrender.com/)  
 - 📖 <a href="https://github.com/hanbit10/RWTH-Informatik-BA">Link to my BA thesis</a>
 
 

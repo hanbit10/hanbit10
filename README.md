@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://hanbit-chang.onrender.com/">Hanbit Chang</a>  </h1>
 <h3 align="center">A frontend developer from South Korea</h3>
 
-
 ## 💻 About Myself
 
 - 📖 I have Bachelor Science Degree by RWTH Aachen and this is my <a href="https://github.com/hanbit10/RWTH-Informatik-BA">thesis</a>

@@ -13,14 +13,15 @@
 - 📖 <a href="https://github.com/hanbit10/RWTH-Informatik-BA">Link to my BA thesis</a>
 
 
-<ul>
-  <li>
-    🚀 Developer Akademie Projects
-    <ul> 
-      <li><a href="https://hanbit-chang.developerakademie.net/sakura-ramen/src/index.html">Sakura Ramen</a></li>
-    </ul>
-  </li>
-</ul>
+## 🚀 Developer Akademie Bootcamp
+
+Completed a bootcamp at **Developer Akademie** focused on **conceptualizing and developing modern web applications** and **reactive programming**. During the program, I worked on several projects demonstrating front-end, back-end, and full-stack skills.
+
+### Key Projects
+- **[DaBubble](https://dabubble.onrender.com/)** – Real-time chat platform with channels, direct messaging, and profile management (Angular | TypeScript | Firebase).  
+- **[Join](https://join-187.developerakademie.net/login.html/)** – Real-time chat platform with channels, direct messaging, and profile management.  
+- **[El Pollo Loco](https://hanbit-chang.developerakademie.net/el-pollo-loco/src/index.html/)** – Real-time chat platform with channels, direct messaging, and profile management.
+- **[Pokedex](https://hanbit-chang.developerakademie.net/pokedex/index.html)** – Real-time chat platform with channels, direct messaging, and profile management.    
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

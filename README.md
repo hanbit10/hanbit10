@@ -3,8 +3,8 @@
 
 ## 💻 About Myself
 
-- 📖 I have Bachelor Science Degree by RWTH Aachen and this is my <a href="https://github.com/hanbit10/RWTH-Informatik-BA">thesis</a>
-- 🌱 I’ve **mastered Angular, TypeScript, and JavaScript**  
+- 🎓 I hold a **Bachelor of Science (B.Sc.) degree** from **RWTH Aachen University**  
+- 📖 My thesis can be found <a href="https://github.com/hanbit10/RWTH-Informatik-BA">here</a>. 
 - 💬 Ask me about **MEAN stack**  
 - 📫 How to reach me: **chanbit10@gmail.com**  
 - ⚡ Fun fact: **I love cooking food and workout**  

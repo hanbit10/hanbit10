@@ -25,16 +25,16 @@
 ## 📫 Reach me
 
 <p>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chanbit10@gmail.com" target="_blank">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=chanbit10@gmail.com" >
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
-  <a href="https://www.linkedin.com/in/hanbit-chang" target="_blank">
+  <a href="https://www.linkedin.com/in/hanbit-chang" ">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://discord.com/users/hanbitchang1" target="_blank">
+  <a href="https://discord.com/users/hanbitchang1" ">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://instagram.com/jang.beat" target="_blank">
+  <a href="https://instagram.com/jang.beat" >
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
 </p>

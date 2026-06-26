@@ -4,7 +4,6 @@
 ## 💻 Professional Profile
 
 - 🎓 **B.Sc. Informatik** from **RWTH Aachen University** (Focus: System Engineering & Verification).
-- 🔬 **Bachelor Thesis:**<a href="https://github.com/hanbit10/RWTH-Informatik-BA">*Automated Verification of While-Programs: Empirically Comparing Dafny and Caesar*</a>.
 - 🚀 **Specialization:** Frontend Engineering with **Angular**, **TypeScript**, and **Reactive Programming (RxJS)**.
 - 📂 **Current Focus:** Building scalable, real-time web applications.
 

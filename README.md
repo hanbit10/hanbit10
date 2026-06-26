@@ -14,7 +14,7 @@
 ## 🛠️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap,tailwind,nodejs,express,firebase,mongodb,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap,tailwind,nodejs,express,firebase,mongodb,python,java,c,php" />
   <img src="https://cdn.simpleicons.org/reactivex/B7178C" width="48" alt="RxJS" />
 </p>
 

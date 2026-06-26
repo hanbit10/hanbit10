@@ -1,6 +1,10 @@
 <h1 align="center">
-  Hi 👋, I'm <a href="https://hanbit-chang.onrender.com/">Hanbit Chang</a> | Software Engineer specializing in Angular & TypeScript
+  Hi 👋, I'm <a href="https://hanbit-chang.onrender.com/">Hanbit Chang</a>
 </h1>
+
+<h3 align="center">
+  Software Engineer building modern web applications
+</h3>
 
 ## 💻 Professional Profile
 

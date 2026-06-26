@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm <a href="https://hanbit-chang.onrender.com/">Hanbit Chang</a></h1>
-<h3 align="center">Software Engineer | B.Sc. Computer Science (RWTH Aachen)</h3>
+<h3 align="center">Software Engineer | B.Sc. Computer Science </h3>
 
 ## 💻 Professional Profile
 
-- 🎓 **B.Sc. Informatik** from **RWTH Aachen University** (Focus: System Engineering & Verification).
-- 🚀 **Specialization:** Frontend Engineering with **Angular**, **TypeScript**, and **Reactive Programming (RxJS)**.
-- 📂 **Current Focus:** Building scalable, real-time web applications.
+- 🎓 **B.Sc. Informatik** at **RWTH Aachen University**
+- 🚀 **Specialization:** Frontend Engineering with **Angular**, **TypeScript**, and **Reactive Programming (RxJS)**
+- 📂 **Current Focus:** Building SaaS and fullstack web applications
 
 ---
 

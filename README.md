@@ -25,9 +25,9 @@
 ## 📫 Reach me
 
 <p>
-  <a href="mailto:chanbit10@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" alt="Gmail" />
-  </a>
+<a href="mailto:chanbit10@gmail.com" target="_blank">
+  <img src="https://cdn.simpleicons.org/gmail/D14836" width="40" alt="Gmail" />
+</a>
   <a href="https://www.linkedin.com/in/hanbit-chang" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>

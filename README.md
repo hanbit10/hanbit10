@@ -23,3 +23,20 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jira,strapi" />
 </p>
+
+## 📫 Reach me
+
+<p>
+  <a href="mailto:chanbit10@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/hanbit-chang" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://discord.com/users/hanbitchang1" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+  <a href="https://instagram.com/jang.beat" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+</p>

@@ -14,12 +14,12 @@
 ## 🛠️ Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap,nodejs,express,firebase,mongodb,python,java,c" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap,tailwind,nodejs,express,firebase,mongodb,python,java,c" />
   <img src="https://cdn.simpleicons.org/reactivex/B7178C" width="48" alt="RxJS" />
 </p>
 
 ## 🧰 Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jira" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,jira,strapi" />
 </p>

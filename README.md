@@ -1,14 +1,12 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+%26+Fullstack+Developer;Building+modern+web+apps" />
-</p>
+
 
 <h1 align="center">
   Hi 👋, I'm <a href="https://hanbit-chang.onrender.com/">Hanbit Chang</a>
 </h1>
 
-<h3 align="center">
-  Software Engineer building modern web applications
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineer;Frontend+%26+Fullstack+Developer;Building+modern+web+apps" />
+</p>
 
 ## 💻 Professional Profile
 

@@ -11,27 +11,15 @@
 
 ---
 
-## 🛠️ Languages and Tools
+## 🛠️ Languages
 
-## 🛠️ Tech Stack
-
-### Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap,nodejs,express,firebase,mongodb,python,java,c" />
   <img src="https://cdn.simpleicons.org/reactivex/B7178C" width="48" alt="RxJS" />
 </p>
 
-### Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb" />
-</p>
+## 🧰 Tools
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c" />
-</p>
-
-### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,jira" />
 </p>

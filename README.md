@@ -11,17 +11,11 @@
 
 ---
 
-## 🛠️ Languages
+## 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap,tailwind,nodejs,express,firebase,mongodb,python,java,c,php" />
+  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap,tailwind,nodejs,express,firebase,mongodb,python,java,c,php,git,github,vscode" />
   <img src="https://cdn.simpleicons.org/reactivex/B7178C" width="48" alt="RxJS" />
-</p>
-
-## 🧰 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,jira,strapi" />
 </p>
 
 ## 📫 Reach me

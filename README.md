@@ -26,7 +26,7 @@
 
 <p>
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=chanbit10@gmail.com" target="_blank">
-  <img src="https://simpleicons.org/gmail/D14836" width="40" />
+  <img src="https://skillicons.org/iconts?i=gmail" />
 </a>
   <a href="https://www.linkedin.com/in/hanbit-chang" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />

@@ -17,7 +17,7 @@
 ## 🛠️ Languages and Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=angular,ts,js,html,sass,bootstrap,tailwind,nodejs,express,firebase,mongodb,python,java,c,php,git,github,vscode,rxjs" />
+  <img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,sass,bootstrap,tailwind,nodejs,express,firebase,mongodb,python,java,c,php,git,github,vscode,rxjs" />
 </p>
 
 ## 📫 Reach me
